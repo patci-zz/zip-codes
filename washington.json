@@ -113,252 +113,252 @@
   "LAT": 47.216372,
   "LNG": -121.912906
 },
-  "98023": {
+"98023": {
   "CITY": "Federal Way",
   "COUNTY": "King County",
   "STATE": "WA",
   "LAT": 47.311491,
   "LNG": -122.36281
-  },
-  "98024": {
+},
+"98024": {
   "CITY": "Fall City",
   "COUNTY": "King County",
   "STATE": "WA",
   "LAT": 47.573424,
   "LNG": -121.899182
-  },
-  "98026": {
+},
+"98026": {
   "CITY": "Edmonds",
   "COUNTY": "Snohomish County",
   "STATE": "WA",
   "LAT": 47.840735,
   "LNG": -122.33266
-  },
-  "98027": {
+},
+"98027": {
   "CITY": "Issaquah",
   "COUNTY": "King County",
   "STATE": "WA",
   "LAT": 47.493732,
   "LNG": -121.998724
-  },
-  "98028": {
+},
+"98028": {
   "CITY": "Kenmore",
   "COUNTY": "King County",
   "STATE": "WA",
   "LAT": 47.755665,
   "LNG": -122.248061
-  },
-  "98029": {
+},
+"98029": {
   "CITY": "Issaquah",
   "COUNTY": "King County",
   "STATE": "WA",
   "LAT": 47.557085,
   "LNG": -122.007748
-  },
-  "98030": {
+},
+"98030": {
   "CITY": "Kent",
   "COUNTY": "King County",
   "STATE": "WA",
   "LAT": 47.367214,
   "LNG": -122.198051
-  },
-  "98031": {
+},
+"98031": {
   "CITY": "Kent",
   "COUNTY": "King County",
   "STATE": "WA",
   "LAT": 47.405479,
   "LNG": -122.195772
-  },
-  "98032": {
+},
+"98032": {
   "CITY": "Kent",
   "COUNTY": "King County",
   "STATE": "WA",
   "LAT": 47.391942,
   "LNG": -122.257192
-  },
-  "98033": {
+},
+"98033": {
   "CITY": "Kirkland",
   "COUNTY": "King County",
   "STATE": "WA",
   "LAT": 47.675982,
   "LNG": -122.193578
-  },
-  "98034": {
+},
+"98034": {
   "CITY": "Kirkland",
   "COUNTY": "King County",
   "STATE": "WA",
   "LAT": 47.715769,
   "LNG": -122.213748
-  },
-  "98036": {
+},
+"98036": {
   "CITY": "Lynnwood",
   "COUNTY": "Snohomish County",
   "STATE": "WA",
   "LAT": 47.809708,
   "LNG": -122.280394
-  },
-  "98037": {
+},
+"98037": {
   "CITY": "Lynnwood",
   "COUNTY": "Snohomish County",
   "STATE": "WA",
   "LAT": 47.839223,
   "LNG": -122.285464
-  },
-  "98038": {
+},
+"98038": {
   "CITY": "Maple Valley",
   "COUNTY": "King County",
   "STATE": "WA",
   "LAT": 47.419378,
   "LNG": -121.958008
-  },
-  "98039": {
+},
+"98039": {
   "CITY": "Medina",
   "COUNTY": "King County",
   "STATE": "WA",
   "LAT": 47.631695,
   "LNG": -122.240405
-  },
-  "98040": {
+},
+"98040": {
   "CITY": "Mercer Island",
   "COUNTY": "King County",
   "STATE": "WA",
   "LAT": 47.567779,
   "LNG": -122.232795
-  },
-  "98042": {
+},
+"98042": {
   "CITY": "Covington",
   "COUNTY": "King County",
   "STATE": "WA",
   "LAT": 47.367737,
   "LNG": -122.117029
-  },
-  "98043": {
+},
+"98043": {
   "CITY": "Mountlake Terrace",
   "COUNTY": "Snohomish County",
   "STATE": "WA",
   "LAT": 47.791111,
   "LNG": -122.30779
-  },
-  "98045": {
+},
+"98045": {
   "CITY": "North Bend",
   "COUNTY": "King County",
   "STATE": "WA",
   "LAT": 47.388327,
   "LNG": -121.606221
-  },
-  "98047": {
+},
+"98047": {
   "CITY": "Pacific",
   "COUNTY": "King County",
   "STATE": "WA",
   "LAT": 47.261769,
   "LNG": -122.248889
-  },
-  "98050": {
+},
+"98050": {
   "CITY": "Preston",
   "COUNTY": "King County",
   "STATE": "WA",
   "LAT": 47.545269,
   "LNG": -121.939288
-  },
-  "98051": {
+},
+"98051": {
   "CITY": "Ravensdale",
   "COUNTY": "King County",
   "STATE": "WA",
   "LAT": 47.34621,
   "LNG": -121.881291
-  },
-  "98052": {
+},
+"98052": {
   "CITY": "Redmond",
   "COUNTY": "King County",
   "STATE": "WA",
   "LAT": 47.68099,
   "LNG": -122.120531
-  },
-  "98053": {
+},
+"98053": {
   "CITY": "Redmond",
   "COUNTY": "King County",
   "STATE": "WA",
   "LAT": 47.669256,
   "LNG": -122.008454
-  },
-  "98055": {
+},
+"98055": {
   "CITY": "Renton",
   "COUNTY": "King County",
   "STATE": "WA",
   "LAT": 47.446982,
   "LNG": -122.201521
-  },
-  "98056": {
+},
+"98056": {
   "CITY": "Renton",
   "COUNTY": "King County",
   "STATE": "WA",
   "LAT": 47.512527,
   "LNG": -122.190248
-  },
-  "98057": {
+},
+"98057": {
   "CITY": "Renton",
   "COUNTY": "King County",
   "STATE": "WA",
   "LAT": 47.47202,
   "LNG": -122.2219
-  },
-  "98058": {
+},
+"98058": {
   "CITY": "Renton",
   "COUNTY": "King County",
   "STATE": "WA",
   "LAT": 47.442737,
   "LNG": -122.123973
-  },
-  "98059": {
+},
+"98059": {
   "CITY": "Renton",
   "COUNTY": "King County",
   "STATE": "WA",
   "LAT": 47.499429,
   "LNG": -122.110157
-  },
-  "98065": {
+},
+"98065": {
   "CITY": "Snoqualmie",
   "COUNTY": "King County",
   "STATE": "WA",
   "LAT": 47.584223,
   "LNG": -121.791951
-  },
-  "98068": {
+},
+"98068": {
   "CITY": "Snoqualmie Pass",
   "COUNTY": "King County",
   "STATE": "WA",
   "LAT": 47.431696,
   "LNG": -121.374163
-  },
-  "98070": {
+},
+"98070": {
   "CITY": "Vashon Island",
   "COUNTY": "King County",
   "STATE": "WA",
   "LAT": 47.407196,
   "LNG": -122.473322
-  },
-  "98072": {
+},
+"98072": {
   "CITY": "Woodinville",
   "COUNTY": "King County",
   "STATE": "WA",
   "LAT": 47.760785,
   "LNG": -122.130531
-  },
-  "98074": {
+},
+"98074": {
   "CITY": "Sammamish",
   "COUNTY": "King County",
   "STATE": "WA",
   "LAT": 47.622542,
   "LNG": -122.04421
-  },
-  "98075": {
+},
+"98075": {
   "CITY": "Sammamish",
   "COUNTY": "King County",
   "STATE": "WA",
   "LAT": 47.586092,
   "LNG": -122.037436
-  },
-  "98077": {
+},
+"98077": {
   "CITY": "Woodinville",
   "COUNTY": "King County",
   "STATE": "WA",
@@ -722,20 +722,20 @@
   "LAT": 48.570667,
   "LNG": -122.817463
 },
-  "98223": {
+"98223": {
   "CITY": "Arlington",
   "COUNTY": "Snohomish County",
   "STATE": "WA",
   "LAT": 48.21712,
   "LNG": -121.95354
-  },
-  "98224": {
+},
+"98224": {
   "CITY": "Baring",
   "COUNTY": "King County",
   "STATE": "WA",
   "LAT": 47.771590,
   "LNG": -121.481500
-  },
+},
   "98225": {
   "CITY": "Bellingham",
   "COUNTY": "Whatcom County",
