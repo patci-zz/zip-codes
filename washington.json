@@ -736,461 +736,461 @@
   "LAT": 47.771590,
   "LNG": -121.481500
 },
-  "98225": {
+"98225": {
   "CITY": "Bellingham",
   "COUNTY": "Whatcom County",
   "STATE": "WA",
   "LAT": 48.75094,
   "LNG": -122.501286
-  },
-  "98226": {
+},
+"98226": {
   "CITY": "Bellingham",
   "COUNTY": "Whatcom County",
   "STATE": "WA",
   "LAT": 48.798606,
   "LNG": -122.445693
-  },
-  "98229": {
+},
+"98229": {
   "CITY": "Bellingham",
   "COUNTY": "Whatcom County",
   "STATE": "WA",
   "LAT": 48.696127,
   "LNG": -122.413538
-  },
-  "98230": {
+},
+"98230": {
   "CITY": "Blaine",
   "COUNTY": "Whatcom County",
   "STATE": "WA",
   "LAT": 48.993894,
   "LNG": -122.740851
-  },
-  "98232": {
+},
+"98232": {
   "CITY": "Bow",
   "COUNTY": "Skagit County",
   "STATE": "WA",
   "LAT": 48.570552,
   "LNG": -122.411065
-  },
-  "98233": {
+},
+"98233": {
   "CITY": "Burlington",
   "COUNTY": "Skagit County",
   "STATE": "WA",
   "LAT": 48.500911,
   "LNG": -122.345655
-  },
-  "98235": {
+},
+"98235": {
   "CITY": "Clear Lake",
   "COUNTY": "Skagit County",
   "STATE": "WA",
   "LAT": 48.462505,
   "LNG": -122.23398
-  },
-  "98236": {
+},
+"98236": {
   "CITY": "Clinton",
   "COUNTY": "Island County",
   "STATE": "WA",
   "LAT": 47.948393,
   "LNG": -122.412822
-  },
-  "98237": {
+},
+"98237": {
   "CITY": "Concrete",
   "COUNTY": "Skagit County",
   "STATE": "WA",
   "LAT": 48.556708,
   "LNG": -121.592386
-  },
-  "98238": {
+},
+"98238": {
   "CITY": "Conway",
   "COUNTY": "Skagit County",
   "STATE": "WA",
   "LAT": 48.335389,
   "LNG": -122.34462
-  },
-  "98239": {
+},
+"98239": {
   "CITY": "Coupeville",
   "COUNTY": "Island County",
   "STATE": "WA",
   "LAT": 48.196498,
   "LNG": -122.657954
-  },
-  "98240": {
+},
+"98240": {
   "CITY": "Custer",
   "COUNTY": "Whatcom County",
   "STATE": "WA",
   "LAT": 48.948225,
   "LNG": -122.620684
-  },
-  "98241": {
+},
+"98241": {
   "CITY": "Darrington",
   "COUNTY": "Snohomish County",
   "STATE": "WA",
   "LAT": 48.203972,
   "LNG": -121.140144
-  },
-  "98243": {
+},
+"98243": {
   "CITY": "Deer Harbor",
   "COUNTY": "San Juan County",
   "STATE": "WA",
   "LAT": 48.608978,
   "LNG": -123.003654
-  },
-  "98244": {
+},
+"98244": {
   "CITY": "Deming",
   "COUNTY": "Whatcom County",
   "STATE": "WA",
   "LAT": 48.831811,
   "LNG": -121.933829
-  },
-  "98245": {
+},
+"98245": {
   "CITY": "Eastsound",
   "COUNTY": "San Juan County",
   "STATE": "WA",
   "LAT": 48.619663,
   "LNG": -122.87177
-  },
-  "98247": {
+},
+"98247": {
   "CITY": "Everson",
   "COUNTY": "Whatcom County",
   "STATE": "WA",
   "LAT": 48.911829,
   "LNG": -122.330175
-  },
-  "98248": {
+},
+"98248": {
   "CITY": "Ferndale",
   "COUNTY": "Whatcom County",
   "STATE": "WA",
   "LAT": 48.864419,
   "LNG": -122.619419
-  },
-  "98249": {
+},
+"98249": {
   "CITY": "Freeland",
   "COUNTY": "Island County",
   "STATE": "WA",
   "LAT": 48.014236,
   "LNG": -122.542794
-  },
-  "98250": {
+},
+"98250": {
   "CITY": "Friday Harbor",
   "COUNTY": "San Juan County",
   "STATE": "WA",
   "LAT": 48.571293,
   "LNG": -123.113449
-  },
-  "98251": {
+},
+"98251": {
   "CITY": "Gold Bar",
   "COUNTY": "Snohomish County",
   "STATE": "WA",
   "LAT": 47.911529,
   "LNG": -121.606417
-  },
-  "98252": {
+},
+"98252": {
   "CITY": "Granite Falls",
   "COUNTY": "Snohomish County",
   "STATE": "WA",
   "LAT": 48.07256,
   "LNG": -121.689606
-  },
-  "98253": {
+},
+"98253": {
   "CITY": "Greenbank",
   "COUNTY": "Island County",
   "STATE": "WA",
   "LAT": 48.092397,
   "LNG": -122.576537
-  },
-  "98255": {
+},
+"98255": {
   "CITY": "Hamilton",
   "COUNTY": "Skagit County",
   "STATE": "WA",
   "LAT": 48.522118,
   "LNG": -121.989403
-  },
-  "98256": {
+},
+"98256": {
   "CITY": "Index",
   "COUNTY": "Snohomish County",
   "STATE": "WA",
   "LAT": 47.821484,
   "LNG": -121.406516
-  },
-  "98257": {
+},
+"98257": {
   "CITY": "La Conner",
   "COUNTY": "Skagit County",
   "STATE": "WA",
   "LAT": 48.406025,
   "LNG": -122.512147
-  },
-  "98258": {
+},
+"98258": {
   "CITY": "Lake Stevens",
   "COUNTY": "Snohomish County",
   "STATE": "WA",
   "LAT": 48.04417,
   "LNG": -122.077404
-  },
-  "98260": {
+},
+"98260": {
   "CITY": "Langley",
   "COUNTY": "Island County",
   "STATE": "WA",
   "LAT": 48.036309,
   "LNG": -122.452564
-  },
-  "98261": {
+},
+"98261": {
   "CITY": "Lopez Island",
   "COUNTY": "San Juan County",
   "STATE": "WA",
   "LAT": 48.482492,
   "LNG": -122.883959
-  },
-  "98262": {
+},
+"98262": {
   "CITY": "Lummi Island",
   "COUNTY": "Whatcom County",
   "STATE": "WA",
   "LAT": 48.675104,
   "LNG": -122.645925
-  },
-  "98263": {
+},
+"98263": {
   "CITY": "Lyman",
   "COUNTY": "Skagit County",
   "STATE": "WA",
   "LAT": 48.523789,
   "LNG": -122.065596
-  },
-  "98264": {
+},
+"98264": {
   "CITY": "Lynden",
   "COUNTY": "Whatcom County",
   "STATE": "WA",
   "LAT": 48.950253,
   "LNG": -122.459792
-  },
-  "98266": {
+},
+"98266": {
   "CITY": "Maple Falls",
   "COUNTY": "Whatcom County",
   "STATE": "WA",
   "LAT": 48.963594,
   "LNG": -122.123034
-  },
-  "98267": {
+},
+"98267": {
   "CITY": "Marblemount",
   "COUNTY": "Skagit County",
   "STATE": "WA",
   "LAT": 48.438734,
   "LNG": -121.296339
-  },
-  "98270": {
+},
+"98270": {
   "CITY": "Marysville",
   "COUNTY": "Snohomish County",
   "STATE": "WA",
   "LAT": 48.056723,
   "LNG": -122.146904
-  },
-  "98271": {
+},
+"98271": {
   "CITY": "Marysville",
   "COUNTY": "Snohomish County",
   "STATE": "WA",
   "LAT": 48.089968,
   "LNG": -122.237681
-  },
-  "98272": {
+},
+"98272": {
   "CITY": "Monroe",
   "COUNTY": "Snohomish County",
   "STATE": "WA",
   "LAT": 47.848583,
   "LNG": -121.894899
-  },
-  "98273": {
+},
+"98273": {
   "CITY": "Mt Vernon",
   "COUNTY": "Skagit County",
   "STATE": "WA",
   "LAT": 48.402754,
   "LNG": -122.376148
-  },
-  "98274": {
+},
+"98274": {
   "CITY": "Mt Vernon",
   "COUNTY": "Skagit County",
   "STATE": "WA",
   "LAT": 48.348771,
   "LNG": -122.145467
-  },
-  "98275": {
+},
+"98275": {
   "CITY": "Mukilteo",
   "COUNTY": "Snohomish County",
   "STATE": "WA",
   "LAT": 47.916786,
   "LNG": -122.302643
-  },
-  "98276": {
+},
+"98276": {
   "CITY": "Nooksack",
   "COUNTY": "Whatcom County",
   "STATE": "WA",
   "LAT": 48.926701,
   "LNG": -122.326183
-  },
-  "98277": {
+},
+"98277": {
   "CITY": "Oak Harbor",
   "COUNTY": "Island County",
   "STATE": "WA",
   "LAT": 48.316859,
   "LNG": -122.622619
-  },
-  "98278": {
+},
+"98278": {
   "CITY": "Oak Harbor",
   "COUNTY": "Island County",
   "STATE": "WA",
   "LAT": 48.339706,
   "LNG": -122.671656
-  },
-  "98279": {
+},
+"98279": {
   "CITY": "Doe Bay",
   "COUNTY": "San Juan County",
   "STATE": "WA",
   "LAT": 48.636509,
   "LNG": -122.818264
-  },
-  "98280": {
+},
+"98280": {
   "CITY": "Orcas",
   "COUNTY": "San Juan County",
   "STATE": "WA",
   "LAT": 48.608033,
   "LNG": -122.910155
-  },
-  "98281": {
+},
+"98281": {
   "CITY": "Point Roberts",
   "COUNTY": "Whatcom County",
   "STATE": "WA",
   "LAT": 48.99193,
   "LNG": -123.051184
-  },
-  "98282": {
+},
+"98282": {
   "CITY": "Camano Island",
   "COUNTY": "Island County",
   "STATE": "WA",
   "LAT": 48.213258,
   "LNG": -122.500085
-  },
-  "98283": {
+},
+"98283": {
   "CITY": "Rockport",
   "COUNTY": "Skagit County",
   "STATE": "WA",
   "LAT": 48.802055,
   "LNG": -121.260324
-  },
-  "98284": {
+},
+"98284": {
   "CITY": "Sedro-Woolley",
   "COUNTY": "Skagit County",
   "STATE": "WA",
   "LAT": 48.546832,
   "LNG": -122.135222
-  },
-  "98286": {
+},
+"98286": {
   "CITY": "Shaw Island",
   "COUNTY": "San Juan County",
   "STATE": "WA",
   "LAT": 48.568814,
   "LNG": -122.957539
-  },
-  "98288": {
+},
+"98288": {
   "CITY": "Skykomish",
   "COUNTY": "King County",
   "STATE": "WA",
   "LAT": 47.661553,
   "LNG": -121.278786
-  },
-  "98290": {
+},
+"98290": {
   "CITY": "Snohomish",
   "COUNTY": "Snohomish County",
   "STATE": "WA",
   "LAT": 47.955367,
   "LNG": -121.978502
-  },
-  "98292": {
+},
+"98292": {
   "CITY": "Stanwood",
   "COUNTY": "Snohomish County",
   "STATE": "WA",
   "LAT": 48.216792,
   "LNG": -122.31439
-  },
-  "98294": {
+},
+"98294": {
   "CITY": "Sultan",
   "COUNTY": "Snohomish County",
   "STATE": "WA",
   "LAT": 47.874166,
   "LNG": -121.754323
-  },
-  "98295": {
+},
+"98295": {
   "CITY": "Sumas",
   "COUNTY": "Whatcom County",
   "STATE": "WA",
   "LAT": 48.984027,
   "LNG": -122.193118
-  },
-  "98296": {
+},
+"98296": {
   "CITY": "Snohomish",
   "COUNTY": "Snohomish County",
   "STATE": "WA",
   "LAT": 47.840783,
   "LNG": -122.101084
-  },
-  "98297": {
+},
+"98297": {
   "CITY": "Waldron Island",
   "COUNTY": "San Juan County",
   "STATE": "WA",
   "LAT": 48.702062,
   "LNG": -123.026507
-  },
-  "98303": {
+},
+"98303": {
   "CITY": "Anderson Island",
   "COUNTY": "Pierce County",
   "STATE": "WA",
   "LAT": 47.157405,
   "LNG": -122.693536
-  },
-  "98304": {
+},
+"98304": {
   "CITY": "Ashford",
   "COUNTY": "Pierce County",
   "STATE": "WA",
   "LAT": 46.884601,
   "LNG": -121.736645
-  },
-  "98305": {
+},
+"98305": {
   "CITY": "Beaver",
   "COUNTY": "Clallam County",
   "STATE": "WA",
   "LAT": 48.062891,
   "LNG": -124.439072
-  },
-  "98310": {
+},
+"98310": {
   "CITY": "Bremerton",
   "COUNTY": "Kitsap County",
   "STATE": "WA",
   "LAT": 47.591896,
   "LNG": -122.626241
-  },
-  "98311": {
+},
+"98311": {
   "CITY": "Bremerton",
   "COUNTY": "Kitsap County",
   "STATE": "WA",
   "LAT": 47.631197,
   "LNG": -122.631017
-  },
-  "98312": {
+},
+"98312": {
   "CITY": "Bremerton",
   "COUNTY": "Kitsap County",
   "STATE": "WA",
   "LAT": 47.573702,
   "LNG": -122.786447
-  },
-  "98314": {
+},
+"98314": {
   "CITY": "Bremerton",
   "COUNTY": "Kitsap County",
   "STATE": "WA",
   "LAT": 47.556287,
   "LNG": -122.637118
-  },
+},
   "98315": {
   "CITY": "Silverdale",
   "COUNTY": "Kitsap County",
   "STATE": "WA",
   "LAT": 47.72455,
   "LNG": -122.716011
-  },
+},
 "98320": {
   "CITY": "Brinnon",
   "COUNTY": "Jefferson County",
