@@ -1,1221 +1,1221 @@
-"98001": {
-"CITY": "Auburn",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.310617,
-"LNG": -122.263291
-},
-"98002": {
-"CITY": "Auburn",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.308286,
-"LNG": -122.216812
-},
-"98003": {
-"CITY": "Federal Way",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.304801,
-"LNG": -122.316969
-},
-"98004": {
-"CITY": "Bellevue",
-"NEIGHBORHOOD": "West Bellevue",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.618337,
-"LNG": -122.205341
-},
-"98005": {
-"CITY": "Bellevue",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.614533,
-"LNG": -122.168798
-},
-"98006": {
-"CITY": "Bellevue",
-"NEIGHBORHOOD": "South Bellevue",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.557627,
-"LNG": -122.151005
-},
-"98007": {
-"CITY": "Bellevue",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.613825,
-"LNG": -122.144365
-},
-"98008": {
-"CITY": "Bellevue",
-"NEIGHBORHOOD": "East Bellevue",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.605797,
-"LNG": -122.099118
-},
-"98010": {
-"CITY": "Black Diamond",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.31199,
-"LNG": -122.000503
-},
-"98011": {
-"CITY": "Bothell",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.753344,
-"LNG": -122.201952
-},
-"98012": {
-"CITY": "Bothell",
-"COUNTY": "Snohomish County",
-"STATE": "WA",
-"LAT": 47.841376,
-"LNG": -122.198939
-},
-"98014": {
-"CITY": "Carnation",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.662086,
-"LNG": -121.89187
-},
-"98019": {
-"CITY": "Duvall",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.734333,
-"LNG": -121.855307
-},
-"98020": {
-"CITY": "Edmonds",
-"COUNTY": "Snohomish County",
-"STATE": "WA",
-"LAT": 47.802344,
-"LNG": -122.374193
-},
-"98021": {
-"CITY": "Bothell",
-"COUNTY": "Snohomish County",
-"STATE": "WA",
-"LAT": 47.79253,
-"LNG": -122.208207
-},
-"98022": {
-"CITY": "Enumclaw",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.216372,
-"LNG": -121.912906
-},
-"98023": {
-"CITY": "Federal Way",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.311491,
-"LNG": -122.36281
-},
-"98024": {
-"CITY": "Fall City",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.573424,
-"LNG": -121.899182
-},
-"98026": {
-"CITY": "Edmonds",
-"COUNTY": "Snohomish County",
-"STATE": "WA",
-"LAT": 47.840735,
-"LNG": -122.33266
-},
-"98027": {
-"CITY": "Issaquah",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.493732,
-"LNG": -121.998724
-},
-"98028": {
-"CITY": "Kenmore",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.755665,
-"LNG": -122.248061
-},
-"98029": {
-"CITY": "Issaquah",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.557085,
-"LNG": -122.007748
-},
-"98030": {
-"CITY": "Kent",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.367214,
-"LNG": -122.198051
-},
-"98031": {
-"CITY": "Kent",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.405479,
-"LNG": -122.195772
-},
-"98032": {
-"CITY": "Kent",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.391942,
-"LNG": -122.257192
-},
-"98033": {
-"CITY": "Kirkland",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.675982,
-"LNG": -122.193578
-},
-"98034": {
-"CITY": "Kirkland",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.715769,
-"LNG": -122.213748
-},
-"98036": {
-"CITY": "Lynnwood",
-"COUNTY": "Snohomish County",
-"STATE": "WA",
-"LAT": 47.809708,
-"LNG": -122.280394
-},
-"98037": {
-"CITY": "Lynnwood",
-"COUNTY": "Snohomish County",
-"STATE": "WA",
-"LAT": 47.839223,
-"LNG": -122.285464
-},
-"98038": {
-"CITY": "Maple Valley",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.419378,
-"LNG": -121.958008
-},
-"98039": {
-"CITY": "Medina",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.631695,
-"LNG": -122.240405
-},
-"98040": {
-"CITY": "Mercer Island",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.567779,
-"LNG": -122.232795
-},
-"98042": {
-"CITY": "Covington",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.367737,
-"LNG": -122.117029
-},
-"98043": {
-"CITY": "Mountlake Terrace",
-"COUNTY": "Snohomish County",
-"STATE": "WA",
-"LAT": 47.791111,
-"LNG": -122.30779
-},
-"98045": {
-"CITY": "North Bend",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.388327,
-"LNG": -121.606221
-},
-"98047": {
-"CITY": "Pacific",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.261769,
-"LNG": -122.248889
-},
-"98050": {
-"CITY": "Preston",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.545269,
-"LNG": -121.939288
-},
-"98051": {
-"CITY": "Ravensdale",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.34621,
-"LNG": -121.881291
-},
-"98052": {
-"CITY": "Redmond",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.68099,
-"LNG": -122.120531
-},
-"98053": {
-"CITY": "Redmond",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.669256,
-"LNG": -122.008454
-},
-"98055": {
-"CITY": "Renton",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.446982,
-"LNG": -122.201521
-},
-"98056": {
-"CITY": "Renton",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.512527,
-"LNG": -122.190248
-},
-"98057": {
-"CITY": "Renton",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.47202,
-"LNG": -122.2219
-},
-"98058": {
-"CITY": "Renton",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.442737,
-"LNG": -122.123973
-},
-"98059": {
-"CITY": "Renton",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.499429,
-"LNG": -122.110157
-},
-"98065": {
-"CITY": "Snoqualmie",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.584223,
-"LNG": -121.791951
-},
-"98068": {
-"CITY": "Snoqualmie Pass",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.431696,
-"LNG": -121.374163
-},
-"98070": {
-"CITY": "Vashon Island",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.407196,
-"LNG": -122.473322
-},
-"98072": {
-"CITY": "Woodinville",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.760785,
-"LNG": -122.130531
-},
-"98074": {
-"CITY": "Sammamish",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.622542,
-"LNG": -122.04421
-},
-"98075": {
-"CITY": "Sammamish",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.586092,
-"LNG": -122.037436
-},
-"98077": {
-"CITY": "Woodinville",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.752379,
-"LNG": -122.060283
-},
-"98087": {
-"CITY": "Lynnwood",
-"COUNTY": "Snohomish County",
-"STATE": "WA",
-"LAT": 47.860085,
-"LNG": -122.267238
-},
-"98092": {
-"CITY": "Auburn",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.287074,
-"LNG": -122.113839
-},
-"98101": {
-"CITY": "Seattle",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.610902,
-"LNG": -122.336422
-},
-"98102": {
-"CITY": "Seattle",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.63714,
-"LNG": -122.321891
-},
-"98103": {
-"CITY": "Seattle",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.678255,
-"LNG": -122.338152
-},
-"98104": {
-"CITY": "Seattle",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.601884,
-"LNG": -122.329459
-},
-"98105": {
-"CITY": "Seattle",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.659861,
-"LNG": -122.284977
-},
-"98106": {
-"CITY": "Seattle",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.544034,
-"LNG": -122.349874
-},
-"98107": {
-"CITY": "Seattle",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.667527,
-"LNG": -122.377551
-},
-"98108": {
-"CITY": "Seattle",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.534862,
-"LNG": -122.305794
-},
-"98109": {
-"CITY": "Seattle",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.631863,
-"LNG": -122.344267
-},
-"98110": {
-"CITY": "Bainbridge Island",
-"COUNTY": "Kitsap County",
-"STATE": "WA",
-"LAT": 47.646967,
-"LNG": -122.534561
-},
-"98112": {
-"CITY": "Seattle",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.63281,
-"LNG": -122.288511
-},
-"98115": {
-"CITY": "Seattle",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.685746,
-"LNG": -122.281589
-},
-"98116": {
-"CITY": "Seattle",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.574245,
-"LNG": -122.400222
-},
-"98117": {
-"CITY": "Seattle",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.687761,
-"LNG": -122.38487
-},
-"98118": {
-"CITY": "Seattle",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.540246,
-"LNG": -122.268545
-},
-"98119": {
-"CITY": "Seattle",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.638679,
-"LNG": -122.370946
-},
-"98121": {
-"CITY": "Seattle",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.615192,
-"LNG": -122.350581
-},
-"98122": {
-"CITY": "Seattle",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.611046,
-"LNG": -122.293207
-},
-"98125": {
-"CITY": "Seattle",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.716513,
-"LNG": -122.295829
-},
-"98126": {
-"CITY": "Seattle",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.555647,
-"LNG": -122.37959
-},
-"98133": {
-"CITY": "Seattle",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.740485,
-"LNG": -122.342826
-},
-"98134": {
-"CITY": "Seattle",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.578096,
-"LNG": -122.33786
-},
-"98136": {
-"CITY": "Seattle",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.536464,
-"LNG": -122.394409
-},
-"98144": {
-"CITY": "Seattle",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.585627,
-"LNG": -122.29196
-},
-"98146": {
-"CITY": "Seattle",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.500058,
-"LNG": -122.357848
-},
-"98148": {
-"CITY": "Seattle",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.444098,
-"LNG": -122.324859
-},
-"98154": {
-"CITY": "Seattle",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.606116,
-"LNG": -122.333782
-},
-"98155": {
-"CITY": "Seattle",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.754413,
-"LNG": -122.300477
-},
-"98158": {
-"CITY": "Seattle",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.449678,
-"LNG": -122.307657
-},
-"98164": {
-"CITY": "Seattle",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.606000,
-"LNG": -122.331669
-},
-"98166": {
-"CITY": "Seattle",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.451576,
-"LNG": -122.352986
-},
-"98168": {
-"CITY": "Seattle",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.489569,
-"LNG": -122.29996
-},
-"98174": {
-"CITY": "Seattle",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.604569,
-"LNG": -122.335359
-},
-"98177": {
-"CITY": "Seattle",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.742239,
-"LNG": -122.376608
-},
-"98178": {
-"CITY": "Seattle",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.499387,
-"LNG": -122.243852
-},
-"98188": {
-"CITY": "Seattle",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.446413,
-"LNG": -122.272098
-},
-"98195": {
-"CITY": "Seattle",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.649339,
-"LNG": -122.310294
-},
-"98198": {
-"CITY": "Seattle",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.391319,
-"LNG": -122.314971
-},
-"98199": {
-"CITY": "Seattle",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.651371,
-"LNG": -122.407349
-},
-"98201": {
-"CITY": "Everett",
-"COUNTY": "Snohomish County",
-"STATE": "WA",
-"LAT": 48.006311,
-"LNG": -122.210044
-},
-"98203": {
-"CITY": "Everett",
-"COUNTY": "Snohomish County",
-"STATE": "WA",
-"LAT": 47.945519,
-"LNG": -122.231096
-},
-"98204": {
-"CITY": "Everett",
-"COUNTY": "Snohomish County",
-"STATE": "WA",
-"LAT": 47.901362,
-"LNG": -122.260891
-},
-"98205": {
-"CITY": "Everett",
-"COUNTY": "Snohomish County",
-"STATE": "WA",
-"LAT": 47.988595,
-"LNG": -122.150148
-},
-"98206": {
-"CITY": "Everett",
-"COUNTY": "Snohomish County",
-"STATE": "WA",
-"LAT": 47.979964,
-"LNG": 122.210043
-},
-"98207": {
-"CITY": "Everett",
-"COUNTY": "Snohomish County",
-"STATE": "WA",
-"LAT": 47.991540,
-"LNG": -122.219176
-},
-"98208": {
-"CITY": "Everett",
-"COUNTY": "Snohomish County",
-"STATE": "WA",
-"LAT": 47.898665,
-"LNG": -122.200443
-},
-"98220": {
-"CITY": "Acme",
-"COUNTY": "Whatcom County",
-"STATE": "WA",
-"LAT": 48.708997,
-"LNG": -122.206784
-},
-"98221": {
-"CITY": "Anacortes",
-"COUNTY": "Skagit County",
-"STATE": "WA",
-"LAT": 48.507939,
-"LNG": -122.616697
-},
-"98222": {
-"CITY": "Blakely Island",
-"COUNTY": "San Juan County",
-"STATE": "WA",
-"LAT": 48.570667,
-"LNG": -122.817463
-},
-"98223": {
-"CITY": "Arlington",
-"COUNTY": "Snohomish County",
-"STATE": "WA",
-"LAT": 48.21712,
-"LNG": -121.95354
-},
-"98224": {
-"CITY": "Baring",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.771590,
-"LNG": -121.481500
-},
-"98225": {
-"CITY": "Bellingham",
-"COUNTY": "Whatcom County",
-"STATE": "WA",
-"LAT": 48.75094,
-"LNG": -122.501286
-},
-"98226": {
-"CITY": "Bellingham",
-"COUNTY": "Whatcom County",
-"STATE": "WA",
-"LAT": 48.798606,
-"LNG": -122.445693
-},
-"98229": {
-"CITY": "Bellingham",
-"COUNTY": "Whatcom County",
-"STATE": "WA",
-"LAT": 48.696127,
-"LNG": -122.413538
-},
-"98230": {
-"CITY": "Blaine",
-"COUNTY": "Whatcom County",
-"STATE": "WA",
-"LAT": 48.993894,
-"LNG": -122.740851
-},
-"98232": {
-"CITY": "Bow",
-"COUNTY": "Skagit County",
-"STATE": "WA",
-"LAT": 48.570552,
-"LNG": -122.411065
-},
-"98233": {
-"CITY": "Burlington",
-"COUNTY": "Skagit County",
-"STATE": "WA",
-"LAT": 48.500911,
-"LNG": -122.345655
-},
-"98235": {
-"CITY": "Clear Lake",
-"COUNTY": "Skagit County",
-"STATE": "WA",
-"LAT": 48.462505,
-"LNG": -122.23398
-},
-"98236": {
-"CITY": "Clinton",
-"COUNTY": "Island County",
-"STATE": "WA",
-"LAT": 47.948393,
-"LNG": -122.412822
-},
-"98237": {
-"CITY": "Concrete",
-"COUNTY": "Skagit County",
-"STATE": "WA",
-"LAT": 48.556708,
-"LNG": -121.592386
-},
-"98238": {
-"CITY": "Conway",
-"COUNTY": "Skagit County",
-"STATE": "WA",
-"LAT": 48.335389,
-"LNG": -122.34462
-},
-"98239": {
-"CITY": "Coupeville",
-"COUNTY": "Island County",
-"STATE": "WA",
-"LAT": 48.196498,
-"LNG": -122.657954
-},
-"98240": {
-"CITY": "Custer",
-"COUNTY": "Whatcom County",
-"STATE": "WA",
-"LAT": 48.948225,
-"LNG": -122.620684
-},
-"98241": {
-"CITY": "Darrington",
-"COUNTY": "Snohomish County",
-"STATE": "WA",
-"LAT": 48.203972,
-"LNG": -121.140144
-},
-"98243": {
-"CITY": "Deer Harbor",
-"COUNTY": "San Juan County",
-"STATE": "WA",
-"LAT": 48.608978,
-"LNG": -123.003654
-},
-"98244": {
-"CITY": "Deming",
-"COUNTY": "Whatcom County",
-"STATE": "WA",
-"LAT": 48.831811,
-"LNG": -121.933829
-},
-"98245": {
-"CITY": "Eastsound",
-"COUNTY": "San Juan County",
-"STATE": "WA",
-"LAT": 48.619663,
-"LNG": -122.87177
-},
-"98247": {
-"CITY": "Everson",
-"COUNTY": "Whatcom County",
-"STATE": "WA",
-"LAT": 48.911829,
-"LNG": -122.330175
-},
-"98248": {
-"CITY": "Ferndale",
-"COUNTY": "Whatcom County",
-"STATE": "WA",
-"LAT": 48.864419,
-"LNG": -122.619419
-},
-"98249": {
-"CITY": "Freeland",
-"COUNTY": "Island County",
-"STATE": "WA",
-"LAT": 48.014236,
-"LNG": -122.542794
-},
-"98250": {
-"CITY": "Friday Harbor",
-"COUNTY": "San Juan County",
-"STATE": "WA",
-"LAT": 48.571293,
-"LNG": -123.113449
-},
-"98251": {
-"CITY": "Gold Bar",
-"COUNTY": "Snohomish County",
-"STATE": "WA",
-"LAT": 47.911529,
-"LNG": -121.606417
-},
-"98252": {
-"CITY": "Granite Falls",
-"COUNTY": "Snohomish County",
-"STATE": "WA",
-"LAT": 48.07256,
-"LNG": -121.689606
-},
-"98253": {
-"CITY": "Greenbank",
-"COUNTY": "Island County",
-"STATE": "WA",
-"LAT": 48.092397,
-"LNG": -122.576537
-},
-"98255": {
-"CITY": "Hamilton",
-"COUNTY": "Skagit County",
-"STATE": "WA",
-"LAT": 48.522118,
-"LNG": -121.989403
-},
-"98256": {
-"CITY": "Index",
-"COUNTY": "Snohomish County",
-"STATE": "WA",
-"LAT": 47.821484,
-"LNG": -121.406516
-},
-"98257": {
-"CITY": "La Conner",
-"COUNTY": "Skagit County",
-"STATE": "WA",
-"LAT": 48.406025,
-"LNG": -122.512147
-},
-"98258": {
-"CITY": "Lake Stevens",
-"COUNTY": "Snohomish County",
-"STATE": "WA",
-"LAT": 48.04417,
-"LNG": -122.077404
-},
-"98260": {
-"CITY": "Langley",
-"COUNTY": "Island County",
-"STATE": "WA",
-"LAT": 48.036309,
-"LNG": -122.452564
-},
-"98261": {
-"CITY": "Lopez Island",
-"COUNTY": "San Juan County",
-"STATE": "WA",
-"LAT": 48.482492,
-"LNG": -122.883959
-},
-"98262": {
-"CITY": "Lummi Island",
-"COUNTY": "Whatcom County",
-"STATE": "WA",
-"LAT": 48.675104,
-"LNG": -122.645925
-},
-"98263": {
-"CITY": "Lyman",
-"COUNTY": "Skagit County",
-"STATE": "WA",
-"LAT": 48.523789,
-"LNG": -122.065596
-},
-"98264": {
-"CITY": "Lynden",
-"COUNTY": "Whatcom County",
-"STATE": "WA",
-"LAT": 48.950253,
-"LNG": -122.459792
-},
-"98266": {
-"CITY": "Maple Falls",
-"COUNTY": "Whatcom County",
-"STATE": "WA",
-"LAT": 48.963594,
-"LNG": -122.123034
-},
-"98267": {
-"CITY": "Marblemount",
-"COUNTY": "Skagit County",
-"STATE": "WA",
-"LAT": 48.438734,
-"LNG": -121.296339
-},
-"98270": {
-"CITY": "Marysville",
-"COUNTY": "Snohomish County",
-"STATE": "WA",
-"LAT": 48.056723,
-"LNG": -122.146904
-},
-"98271": {
-"CITY": "Marysville",
-"COUNTY": "Snohomish County",
-"STATE": "WA",
-"LAT": 48.089968,
-"LNG": -122.237681
-},
-"98272": {
-"CITY": "Monroe",
-"COUNTY": "Snohomish County",
-"STATE": "WA",
-"LAT": 47.848583,
-"LNG": -121.894899
-},
-"98273": {
-"CITY": "Mt Vernon",
-"COUNTY": "Skagit County",
-"STATE": "WA",
-"LAT": 48.402754,
-"LNG": -122.376148
-},
-"98274": {
-"CITY": "Mt Vernon",
-"COUNTY": "Skagit County",
-"STATE": "WA",
-"LAT": 48.348771,
-"LNG": -122.145467
-},
-"98275": {
-"CITY": "Mukilteo",
-"COUNTY": "Snohomish County",
-"STATE": "WA",
-"LAT": 47.916786,
-"LNG": -122.302643
-},
-"98276": {
-"CITY": "Nooksack",
-"COUNTY": "Whatcom County",
-"STATE": "WA",
-"LAT": 48.926701,
-"LNG": -122.326183
-},
-"98277": {
-"CITY": "Oak Harbor",
-"COUNTY": "Island County",
-"STATE": "WA",
-"LAT": 48.316859,
-"LNG": -122.622619
-},
-"98278": {
-"CITY": "Oak Harbor",
-"COUNTY": "Island County",
-"STATE": "WA",
-"LAT": 48.339706,
-"LNG": -122.671656
-},
-"98279": {
-"CITY": "Doe Bay",
-"COUNTY": "San Juan County",
-"STATE": "WA",
-"LAT": 48.636509,
-"LNG": -122.818264
-},
-"98280": {
-"CITY": "Orcas",
-"COUNTY": "San Juan County",
-"STATE": "WA",
-"LAT": 48.608033,
-"LNG": -122.910155
-},
-"98281": {
-"CITY": "Point Roberts",
-"COUNTY": "Whatcom County",
-"STATE": "WA",
-"LAT": 48.99193,
-"LNG": -123.051184
-},
-"98282": {
-"CITY": "Camano Island",
-"COUNTY": "Island County",
-"STATE": "WA",
-"LAT": 48.213258,
-"LNG": -122.500085
-},
-"98283": {
-"CITY": "Rockport",
-"COUNTY": "Skagit County",
-"STATE": "WA",
-"LAT": 48.802055,
-"LNG": -121.260324
-},
-"98284": {
-"CITY": "Sedro-Woolley",
-"COUNTY": "Skagit County",
-"STATE": "WA",
-"LAT": 48.546832,
-"LNG": -122.135222
-},
-"98286": {
-"CITY": "Shaw Island",
-"COUNTY": "San Juan County",
-"STATE": "WA",
-"LAT": 48.568814,
-"LNG": -122.957539
-},
-"98288": {
-"CITY": "Skykomish",
-"COUNTY": "King County",
-"STATE": "WA",
-"LAT": 47.661553,
-"LNG": -121.278786
-},
-"98290": {
-"CITY": "Snohomish",
-"COUNTY": "Snohomish County",
-"STATE": "WA",
-"LAT": 47.955367,
-"LNG": -121.978502
-},
-"98292": {
-"CITY": "Stanwood",
-"COUNTY": "Snohomish County",
-"STATE": "WA",
-"LAT": 48.216792,
-"LNG": -122.31439
-},
-"98294": {
-"CITY": "Sultan",
-"COUNTY": "Snohomish County",
-"STATE": "WA",
-"LAT": 47.874166,
-"LNG": -121.754323
-},
-"98295": {
-"CITY": "Sumas",
-"COUNTY": "Whatcom County",
-"STATE": "WA",
-"LAT": 48.984027,
-"LNG": -122.193118
-},
-"98296": {
-"CITY": "Snohomish",
-"COUNTY": "Snohomish County",
-"STATE": "WA",
-"LAT": 47.840783,
-"LNG": -122.101084
-},
-"98297": {
-"CITY": "Waldron Island",
-"COUNTY": "San Juan County",
-"STATE": "WA",
-"LAT": 48.702062,
-"LNG": -123.026507
-},
-"98303": {
-"CITY": "Anderson Island",
-"COUNTY": "Pierce County",
-"STATE": "WA",
-"LAT": 47.157405,
-"LNG": -122.693536
-},
-"98304": {
-"CITY": "Ashford",
-"COUNTY": "Pierce County",
-"STATE": "WA",
-"LAT": 46.884601,
-"LNG": -121.736645
-},
-"98305": {
-"CITY": "Beaver",
-"COUNTY": "Clallam County",
-"STATE": "WA",
-"LAT": 48.062891,
-"LNG": -124.439072
-},
-"98310": {
-"CITY": "Bremerton",
-"COUNTY": "Kitsap County",
-"STATE": "WA",
-"LAT": 47.591896,
-"LNG": -122.626241
-},
-"98311": {
-"CITY": "Bremerton",
-"COUNTY": "Kitsap County",
-"STATE": "WA",
-"LAT": 47.631197,
-"LNG": -122.631017
-},
-"98312": {
-"CITY": "Bremerton",
-"COUNTY": "Kitsap County",
-"STATE": "WA",
-"LAT": 47.573702,
-"LNG": -122.786447
-},
-"98314": {
-"CITY": "Bremerton",
-"COUNTY": "Kitsap County",
-"STATE": "WA",
-"LAT": 47.556287,
-"LNG": -122.637118
-},
-"98315": {
-"CITY": "Silverdale",
-"COUNTY": "Kitsap County",
-"STATE": "WA",
-"LAT": 47.72455,
-"LNG": -122.716011
-},
-"98320": {
-"CITY": "Brinnon",
-"COUNTY": "Jefferson County",
-"STATE": "WA",
-"LAT": 47.718543,
-"LNG": -122.966923
-},
-"98321": {
-"CITY": "Buckley",
-"COUNTY": "Pierce County",
-"STATE": "WA",
-"LAT": 47.152606,
-"LNG": -122.071738
-},
-"98323": {
-"CITY": "Carbonado",
-"COUNTY": "Pierce County",
-"STATE": "WA",
-"LAT": 47.043116,
-"LNG": -121.827633
-},
-"98325": {
-"CITY": "Chimacum",
-"COUNTY": "Jefferson",
-"STATE": "WA",
-"LAT": 47.966641,
-"LNG": -122.759706
-}
+  "98001": {
+  "CITY": "Auburn",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.310617,
+  "LNG": -122.263291
+  },
+  "98002": {
+  "CITY": "Auburn",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.308286,
+  "LNG": -122.216812
+  },
+  "98003": {
+  "CITY": "Federal Way",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.304801,
+  "LNG": -122.316969
+  },
+  "98004": {
+  "CITY": "Bellevue",
+  "NEIGHBORHOOD": "West Bellevue",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.618337,
+  "LNG": -122.205341
+  },
+  "98005": {
+  "CITY": "Bellevue",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.614533,
+  "LNG": -122.168798
+  },
+  "98006": {
+  "CITY": "Bellevue",
+  "NEIGHBORHOOD": "South Bellevue",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.557627,
+  "LNG": -122.151005
+  },
+  "98007": {
+  "CITY": "Bellevue",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.613825,
+  "LNG": -122.144365
+  },
+  "98008": {
+  "CITY": "Bellevue",
+  "NEIGHBORHOOD": "East Bellevue",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.605797,
+  "LNG": -122.099118
+  },
+  "98010": {
+  "CITY": "Black Diamond",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.31199,
+  "LNG": -122.000503
+  },
+  "98011": {
+  "CITY": "Bothell",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.753344,
+  "LNG": -122.201952
+  },
+  "98012": {
+  "CITY": "Bothell",
+  "COUNTY": "Snohomish County",
+  "STATE": "WA",
+  "LAT": 47.841376,
+  "LNG": -122.198939
+  },
+  "98014": {
+  "CITY": "Carnation",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.662086,
+  "LNG": -121.89187
+  },
+  "98019": {
+  "CITY": "Duvall",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.734333,
+  "LNG": -121.855307
+  },
+  "98020": {
+  "CITY": "Edmonds",
+  "COUNTY": "Snohomish County",
+  "STATE": "WA",
+  "LAT": 47.802344,
+  "LNG": -122.374193
+  },
+  "98021": {
+  "CITY": "Bothell",
+  "COUNTY": "Snohomish County",
+  "STATE": "WA",
+  "LAT": 47.79253,
+  "LNG": -122.208207
+  },
+  "98022": {
+  "CITY": "Enumclaw",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.216372,
+  "LNG": -121.912906
+  },
+  "98023": {
+  "CITY": "Federal Way",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.311491,
+  "LNG": -122.36281
+  },
+  "98024": {
+  "CITY": "Fall City",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.573424,
+  "LNG": -121.899182
+  },
+  "98026": {
+  "CITY": "Edmonds",
+  "COUNTY": "Snohomish County",
+  "STATE": "WA",
+  "LAT": 47.840735,
+  "LNG": -122.33266
+  },
+  "98027": {
+  "CITY": "Issaquah",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.493732,
+  "LNG": -121.998724
+  },
+  "98028": {
+  "CITY": "Kenmore",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.755665,
+  "LNG": -122.248061
+  },
+  "98029": {
+  "CITY": "Issaquah",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.557085,
+  "LNG": -122.007748
+  },
+  "98030": {
+  "CITY": "Kent",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.367214,
+  "LNG": -122.198051
+  },
+  "98031": {
+  "CITY": "Kent",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.405479,
+  "LNG": -122.195772
+  },
+  "98032": {
+  "CITY": "Kent",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.391942,
+  "LNG": -122.257192
+  },
+  "98033": {
+  "CITY": "Kirkland",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.675982,
+  "LNG": -122.193578
+  },
+  "98034": {
+  "CITY": "Kirkland",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.715769,
+  "LNG": -122.213748
+  },
+  "98036": {
+  "CITY": "Lynnwood",
+  "COUNTY": "Snohomish County",
+  "STATE": "WA",
+  "LAT": 47.809708,
+  "LNG": -122.280394
+  },
+  "98037": {
+  "CITY": "Lynnwood",
+  "COUNTY": "Snohomish County",
+  "STATE": "WA",
+  "LAT": 47.839223,
+  "LNG": -122.285464
+  },
+  "98038": {
+  "CITY": "Maple Valley",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.419378,
+  "LNG": -121.958008
+  },
+  "98039": {
+  "CITY": "Medina",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.631695,
+  "LNG": -122.240405
+  },
+  "98040": {
+  "CITY": "Mercer Island",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.567779,
+  "LNG": -122.232795
+  },
+  "98042": {
+  "CITY": "Covington",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.367737,
+  "LNG": -122.117029
+  },
+  "98043": {
+  "CITY": "Mountlake Terrace",
+  "COUNTY": "Snohomish County",
+  "STATE": "WA",
+  "LAT": 47.791111,
+  "LNG": -122.30779
+  },
+  "98045": {
+  "CITY": "North Bend",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.388327,
+  "LNG": -121.606221
+  },
+  "98047": {
+  "CITY": "Pacific",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.261769,
+  "LNG": -122.248889
+  },
+  "98050": {
+  "CITY": "Preston",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.545269,
+  "LNG": -121.939288
+  },
+  "98051": {
+  "CITY": "Ravensdale",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.34621,
+  "LNG": -121.881291
+  },
+  "98052": {
+  "CITY": "Redmond",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.68099,
+  "LNG": -122.120531
+  },
+  "98053": {
+  "CITY": "Redmond",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.669256,
+  "LNG": -122.008454
+  },
+  "98055": {
+  "CITY": "Renton",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.446982,
+  "LNG": -122.201521
+  },
+  "98056": {
+  "CITY": "Renton",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.512527,
+  "LNG": -122.190248
+  },
+  "98057": {
+  "CITY": "Renton",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.47202,
+  "LNG": -122.2219
+  },
+  "98058": {
+  "CITY": "Renton",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.442737,
+  "LNG": -122.123973
+  },
+  "98059": {
+  "CITY": "Renton",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.499429,
+  "LNG": -122.110157
+  },
+  "98065": {
+  "CITY": "Snoqualmie",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.584223,
+  "LNG": -121.791951
+  },
+  "98068": {
+  "CITY": "Snoqualmie Pass",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.431696,
+  "LNG": -121.374163
+  },
+  "98070": {
+  "CITY": "Vashon Island",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.407196,
+  "LNG": -122.473322
+  },
+  "98072": {
+  "CITY": "Woodinville",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.760785,
+  "LNG": -122.130531
+  },
+  "98074": {
+  "CITY": "Sammamish",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.622542,
+  "LNG": -122.04421
+  },
+  "98075": {
+  "CITY": "Sammamish",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.586092,
+  "LNG": -122.037436
+  },
+  "98077": {
+  "CITY": "Woodinville",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.752379,
+  "LNG": -122.060283
+  },
+  "98087": {
+  "CITY": "Lynnwood",
+  "COUNTY": "Snohomish County",
+  "STATE": "WA",
+  "LAT": 47.860085,
+  "LNG": -122.267238
+  },
+  "98092": {
+  "CITY": "Auburn",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.287074,
+  "LNG": -122.113839
+  },
+  "98101": {
+  "CITY": "Seattle",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.610902,
+  "LNG": -122.336422
+  },
+  "98102": {
+  "CITY": "Seattle",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.63714,
+  "LNG": -122.321891
+  },
+  "98103": {
+  "CITY": "Seattle",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.678255,
+  "LNG": -122.338152
+  },
+  "98104": {
+  "CITY": "Seattle",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.601884,
+  "LNG": -122.329459
+  },
+  "98105": {
+  "CITY": "Seattle",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.659861,
+  "LNG": -122.284977
+  },
+  "98106": {
+  "CITY": "Seattle",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.544034,
+  "LNG": -122.349874
+  },
+  "98107": {
+  "CITY": "Seattle",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.667527,
+  "LNG": -122.377551
+  },
+  "98108": {
+  "CITY": "Seattle",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.534862,
+  "LNG": -122.305794
+  },
+  "98109": {
+  "CITY": "Seattle",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.631863,
+  "LNG": -122.344267
+  },
+  "98110": {
+  "CITY": "Bainbridge Island",
+  "COUNTY": "Kitsap County",
+  "STATE": "WA",
+  "LAT": 47.646967,
+  "LNG": -122.534561
+  },
+  "98112": {
+  "CITY": "Seattle",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.63281,
+  "LNG": -122.288511
+  },
+  "98115": {
+  "CITY": "Seattle",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.685746,
+  "LNG": -122.281589
+  },
+  "98116": {
+  "CITY": "Seattle",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.574245,
+  "LNG": -122.400222
+  },
+  "98117": {
+  "CITY": "Seattle",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.687761,
+  "LNG": -122.38487
+  },
+  "98118": {
+  "CITY": "Seattle",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.540246,
+  "LNG": -122.268545
+  },
+  "98119": {
+  "CITY": "Seattle",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.638679,
+  "LNG": -122.370946
+  },
+  "98121": {
+  "CITY": "Seattle",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.615192,
+  "LNG": -122.350581
+  },
+  "98122": {
+  "CITY": "Seattle",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.611046,
+  "LNG": -122.293207
+  },
+  "98125": {
+  "CITY": "Seattle",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.716513,
+  "LNG": -122.295829
+  },
+  "98126": {
+  "CITY": "Seattle",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.555647,
+  "LNG": -122.37959
+  },
+  "98133": {
+  "CITY": "Seattle",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.740485,
+  "LNG": -122.342826
+  },
+  "98134": {
+  "CITY": "Seattle",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.578096,
+  "LNG": -122.33786
+  },
+  "98136": {
+  "CITY": "Seattle",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.536464,
+  "LNG": -122.394409
+  },
+  "98144": {
+  "CITY": "Seattle",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.585627,
+  "LNG": -122.29196
+  },
+  "98146": {
+  "CITY": "Seattle",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.500058,
+  "LNG": -122.357848
+  },
+  "98148": {
+  "CITY": "Seattle",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.444098,
+  "LNG": -122.324859
+  },
+  "98154": {
+  "CITY": "Seattle",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.606116,
+  "LNG": -122.333782
+  },
+  "98155": {
+  "CITY": "Seattle",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.754413,
+  "LNG": -122.300477
+  },
+  "98158": {
+  "CITY": "Seattle",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.449678,
+  "LNG": -122.307657
+  },
+  "98164": {
+  "CITY": "Seattle",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.606000,
+  "LNG": -122.331669
+  },
+  "98166": {
+  "CITY": "Seattle",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.451576,
+  "LNG": -122.352986
+  },
+  "98168": {
+  "CITY": "Seattle",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.489569,
+  "LNG": -122.29996
+  },
+  "98174": {
+  "CITY": "Seattle",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.604569,
+  "LNG": -122.335359
+  },
+  "98177": {
+  "CITY": "Seattle",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.742239,
+  "LNG": -122.376608
+  },
+  "98178": {
+  "CITY": "Seattle",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.499387,
+  "LNG": -122.243852
+  },
+  "98188": {
+  "CITY": "Seattle",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.446413,
+  "LNG": -122.272098
+  },
+  "98195": {
+  "CITY": "Seattle",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.649339,
+  "LNG": -122.310294
+  },
+  "98198": {
+  "CITY": "Seattle",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.391319,
+  "LNG": -122.314971
+  },
+  "98199": {
+  "CITY": "Seattle",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.651371,
+  "LNG": -122.407349
+  },
+  "98201": {
+  "CITY": "Everett",
+  "COUNTY": "Snohomish County",
+  "STATE": "WA",
+  "LAT": 48.006311,
+  "LNG": -122.210044
+  },
+  "98203": {
+  "CITY": "Everett",
+  "COUNTY": "Snohomish County",
+  "STATE": "WA",
+  "LAT": 47.945519,
+  "LNG": -122.231096
+  },
+  "98204": {
+  "CITY": "Everett",
+  "COUNTY": "Snohomish County",
+  "STATE": "WA",
+  "LAT": 47.901362,
+  "LNG": -122.260891
+  },
+  "98205": {
+  "CITY": "Everett",
+  "COUNTY": "Snohomish County",
+  "STATE": "WA",
+  "LAT": 47.988595,
+  "LNG": -122.150148
+  },
+  "98206": {
+  "CITY": "Everett",
+  "COUNTY": "Snohomish County",
+  "STATE": "WA",
+  "LAT": 47.979964,
+  "LNG": 122.210043
+  },
+  "98207": {
+  "CITY": "Everett",
+  "COUNTY": "Snohomish County",
+  "STATE": "WA",
+  "LAT": 47.991540,
+  "LNG": -122.219176
+  },
+  "98208": {
+  "CITY": "Everett",
+  "COUNTY": "Snohomish County",
+  "STATE": "WA",
+  "LAT": 47.898665,
+  "LNG": -122.200443
+  },
+  "98220": {
+  "CITY": "Acme",
+  "COUNTY": "Whatcom County",
+  "STATE": "WA",
+  "LAT": 48.708997,
+  "LNG": -122.206784
+  },
+  "98221": {
+  "CITY": "Anacortes",
+  "COUNTY": "Skagit County",
+  "STATE": "WA",
+  "LAT": 48.507939,
+  "LNG": -122.616697
+  },
+  "98222": {
+  "CITY": "Blakely Island",
+  "COUNTY": "San Juan County",
+  "STATE": "WA",
+  "LAT": 48.570667,
+  "LNG": -122.817463
+  },
+  "98223": {
+  "CITY": "Arlington",
+  "COUNTY": "Snohomish County",
+  "STATE": "WA",
+  "LAT": 48.21712,
+  "LNG": -121.95354
+  },
+  "98224": {
+  "CITY": "Baring",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.771590,
+  "LNG": -121.481500
+  },
+  "98225": {
+  "CITY": "Bellingham",
+  "COUNTY": "Whatcom County",
+  "STATE": "WA",
+  "LAT": 48.75094,
+  "LNG": -122.501286
+  },
+  "98226": {
+  "CITY": "Bellingham",
+  "COUNTY": "Whatcom County",
+  "STATE": "WA",
+  "LAT": 48.798606,
+  "LNG": -122.445693
+  },
+  "98229": {
+  "CITY": "Bellingham",
+  "COUNTY": "Whatcom County",
+  "STATE": "WA",
+  "LAT": 48.696127,
+  "LNG": -122.413538
+  },
+  "98230": {
+  "CITY": "Blaine",
+  "COUNTY": "Whatcom County",
+  "STATE": "WA",
+  "LAT": 48.993894,
+  "LNG": -122.740851
+  },
+  "98232": {
+  "CITY": "Bow",
+  "COUNTY": "Skagit County",
+  "STATE": "WA",
+  "LAT": 48.570552,
+  "LNG": -122.411065
+  },
+  "98233": {
+  "CITY": "Burlington",
+  "COUNTY": "Skagit County",
+  "STATE": "WA",
+  "LAT": 48.500911,
+  "LNG": -122.345655
+  },
+  "98235": {
+  "CITY": "Clear Lake",
+  "COUNTY": "Skagit County",
+  "STATE": "WA",
+  "LAT": 48.462505,
+  "LNG": -122.23398
+  },
+  "98236": {
+  "CITY": "Clinton",
+  "COUNTY": "Island County",
+  "STATE": "WA",
+  "LAT": 47.948393,
+  "LNG": -122.412822
+  },
+  "98237": {
+  "CITY": "Concrete",
+  "COUNTY": "Skagit County",
+  "STATE": "WA",
+  "LAT": 48.556708,
+  "LNG": -121.592386
+  },
+  "98238": {
+  "CITY": "Conway",
+  "COUNTY": "Skagit County",
+  "STATE": "WA",
+  "LAT": 48.335389,
+  "LNG": -122.34462
+  },
+  "98239": {
+  "CITY": "Coupeville",
+  "COUNTY": "Island County",
+  "STATE": "WA",
+  "LAT": 48.196498,
+  "LNG": -122.657954
+  },
+  "98240": {
+  "CITY": "Custer",
+  "COUNTY": "Whatcom County",
+  "STATE": "WA",
+  "LAT": 48.948225,
+  "LNG": -122.620684
+  },
+  "98241": {
+  "CITY": "Darrington",
+  "COUNTY": "Snohomish County",
+  "STATE": "WA",
+  "LAT": 48.203972,
+  "LNG": -121.140144
+  },
+  "98243": {
+  "CITY": "Deer Harbor",
+  "COUNTY": "San Juan County",
+  "STATE": "WA",
+  "LAT": 48.608978,
+  "LNG": -123.003654
+  },
+  "98244": {
+  "CITY": "Deming",
+  "COUNTY": "Whatcom County",
+  "STATE": "WA",
+  "LAT": 48.831811,
+  "LNG": -121.933829
+  },
+  "98245": {
+  "CITY": "Eastsound",
+  "COUNTY": "San Juan County",
+  "STATE": "WA",
+  "LAT": 48.619663,
+  "LNG": -122.87177
+  },
+  "98247": {
+  "CITY": "Everson",
+  "COUNTY": "Whatcom County",
+  "STATE": "WA",
+  "LAT": 48.911829,
+  "LNG": -122.330175
+  },
+  "98248": {
+  "CITY": "Ferndale",
+  "COUNTY": "Whatcom County",
+  "STATE": "WA",
+  "LAT": 48.864419,
+  "LNG": -122.619419
+  },
+  "98249": {
+  "CITY": "Freeland",
+  "COUNTY": "Island County",
+  "STATE": "WA",
+  "LAT": 48.014236,
+  "LNG": -122.542794
+  },
+  "98250": {
+  "CITY": "Friday Harbor",
+  "COUNTY": "San Juan County",
+  "STATE": "WA",
+  "LAT": 48.571293,
+  "LNG": -123.113449
+  },
+  "98251": {
+  "CITY": "Gold Bar",
+  "COUNTY": "Snohomish County",
+  "STATE": "WA",
+  "LAT": 47.911529,
+  "LNG": -121.606417
+  },
+  "98252": {
+  "CITY": "Granite Falls",
+  "COUNTY": "Snohomish County",
+  "STATE": "WA",
+  "LAT": 48.07256,
+  "LNG": -121.689606
+  },
+  "98253": {
+  "CITY": "Greenbank",
+  "COUNTY": "Island County",
+  "STATE": "WA",
+  "LAT": 48.092397,
+  "LNG": -122.576537
+  },
+  "98255": {
+  "CITY": "Hamilton",
+  "COUNTY": "Skagit County",
+  "STATE": "WA",
+  "LAT": 48.522118,
+  "LNG": -121.989403
+  },
+  "98256": {
+  "CITY": "Index",
+  "COUNTY": "Snohomish County",
+  "STATE": "WA",
+  "LAT": 47.821484,
+  "LNG": -121.406516
+  },
+  "98257": {
+  "CITY": "La Conner",
+  "COUNTY": "Skagit County",
+  "STATE": "WA",
+  "LAT": 48.406025,
+  "LNG": -122.512147
+  },
+  "98258": {
+  "CITY": "Lake Stevens",
+  "COUNTY": "Snohomish County",
+  "STATE": "WA",
+  "LAT": 48.04417,
+  "LNG": -122.077404
+  },
+  "98260": {
+  "CITY": "Langley",
+  "COUNTY": "Island County",
+  "STATE": "WA",
+  "LAT": 48.036309,
+  "LNG": -122.452564
+  },
+  "98261": {
+  "CITY": "Lopez Island",
+  "COUNTY": "San Juan County",
+  "STATE": "WA",
+  "LAT": 48.482492,
+  "LNG": -122.883959
+  },
+  "98262": {
+  "CITY": "Lummi Island",
+  "COUNTY": "Whatcom County",
+  "STATE": "WA",
+  "LAT": 48.675104,
+  "LNG": -122.645925
+  },
+  "98263": {
+  "CITY": "Lyman",
+  "COUNTY": "Skagit County",
+  "STATE": "WA",
+  "LAT": 48.523789,
+  "LNG": -122.065596
+  },
+  "98264": {
+  "CITY": "Lynden",
+  "COUNTY": "Whatcom County",
+  "STATE": "WA",
+  "LAT": 48.950253,
+  "LNG": -122.459792
+  },
+  "98266": {
+  "CITY": "Maple Falls",
+  "COUNTY": "Whatcom County",
+  "STATE": "WA",
+  "LAT": 48.963594,
+  "LNG": -122.123034
+  },
+  "98267": {
+  "CITY": "Marblemount",
+  "COUNTY": "Skagit County",
+  "STATE": "WA",
+  "LAT": 48.438734,
+  "LNG": -121.296339
+  },
+  "98270": {
+  "CITY": "Marysville",
+  "COUNTY": "Snohomish County",
+  "STATE": "WA",
+  "LAT": 48.056723,
+  "LNG": -122.146904
+  },
+  "98271": {
+  "CITY": "Marysville",
+  "COUNTY": "Snohomish County",
+  "STATE": "WA",
+  "LAT": 48.089968,
+  "LNG": -122.237681
+  },
+  "98272": {
+  "CITY": "Monroe",
+  "COUNTY": "Snohomish County",
+  "STATE": "WA",
+  "LAT": 47.848583,
+  "LNG": -121.894899
+  },
+  "98273": {
+  "CITY": "Mt Vernon",
+  "COUNTY": "Skagit County",
+  "STATE": "WA",
+  "LAT": 48.402754,
+  "LNG": -122.376148
+  },
+  "98274": {
+  "CITY": "Mt Vernon",
+  "COUNTY": "Skagit County",
+  "STATE": "WA",
+  "LAT": 48.348771,
+  "LNG": -122.145467
+  },
+  "98275": {
+  "CITY": "Mukilteo",
+  "COUNTY": "Snohomish County",
+  "STATE": "WA",
+  "LAT": 47.916786,
+  "LNG": -122.302643
+  },
+  "98276": {
+  "CITY": "Nooksack",
+  "COUNTY": "Whatcom County",
+  "STATE": "WA",
+  "LAT": 48.926701,
+  "LNG": -122.326183
+  },
+  "98277": {
+  "CITY": "Oak Harbor",
+  "COUNTY": "Island County",
+  "STATE": "WA",
+  "LAT": 48.316859,
+  "LNG": -122.622619
+  },
+  "98278": {
+  "CITY": "Oak Harbor",
+  "COUNTY": "Island County",
+  "STATE": "WA",
+  "LAT": 48.339706,
+  "LNG": -122.671656
+  },
+  "98279": {
+  "CITY": "Doe Bay",
+  "COUNTY": "San Juan County",
+  "STATE": "WA",
+  "LAT": 48.636509,
+  "LNG": -122.818264
+  },
+  "98280": {
+  "CITY": "Orcas",
+  "COUNTY": "San Juan County",
+  "STATE": "WA",
+  "LAT": 48.608033,
+  "LNG": -122.910155
+  },
+  "98281": {
+  "CITY": "Point Roberts",
+  "COUNTY": "Whatcom County",
+  "STATE": "WA",
+  "LAT": 48.99193,
+  "LNG": -123.051184
+  },
+  "98282": {
+  "CITY": "Camano Island",
+  "COUNTY": "Island County",
+  "STATE": "WA",
+  "LAT": 48.213258,
+  "LNG": -122.500085
+  },
+  "98283": {
+  "CITY": "Rockport",
+  "COUNTY": "Skagit County",
+  "STATE": "WA",
+  "LAT": 48.802055,
+  "LNG": -121.260324
+  },
+  "98284": {
+  "CITY": "Sedro-Woolley",
+  "COUNTY": "Skagit County",
+  "STATE": "WA",
+  "LAT": 48.546832,
+  "LNG": -122.135222
+  },
+  "98286": {
+  "CITY": "Shaw Island",
+  "COUNTY": "San Juan County",
+  "STATE": "WA",
+  "LAT": 48.568814,
+  "LNG": -122.957539
+  },
+  "98288": {
+  "CITY": "Skykomish",
+  "COUNTY": "King County",
+  "STATE": "WA",
+  "LAT": 47.661553,
+  "LNG": -121.278786
+  },
+  "98290": {
+  "CITY": "Snohomish",
+  "COUNTY": "Snohomish County",
+  "STATE": "WA",
+  "LAT": 47.955367,
+  "LNG": -121.978502
+  },
+  "98292": {
+  "CITY": "Stanwood",
+  "COUNTY": "Snohomish County",
+  "STATE": "WA",
+  "LAT": 48.216792,
+  "LNG": -122.31439
+  },
+  "98294": {
+  "CITY": "Sultan",
+  "COUNTY": "Snohomish County",
+  "STATE": "WA",
+  "LAT": 47.874166,
+  "LNG": -121.754323
+  },
+  "98295": {
+  "CITY": "Sumas",
+  "COUNTY": "Whatcom County",
+  "STATE": "WA",
+  "LAT": 48.984027,
+  "LNG": -122.193118
+  },
+  "98296": {
+  "CITY": "Snohomish",
+  "COUNTY": "Snohomish County",
+  "STATE": "WA",
+  "LAT": 47.840783,
+  "LNG": -122.101084
+  },
+  "98297": {
+  "CITY": "Waldron Island",
+  "COUNTY": "San Juan County",
+  "STATE": "WA",
+  "LAT": 48.702062,
+  "LNG": -123.026507
+  },
+  "98303": {
+  "CITY": "Anderson Island",
+  "COUNTY": "Pierce County",
+  "STATE": "WA",
+  "LAT": 47.157405,
+  "LNG": -122.693536
+  },
+  "98304": {
+  "CITY": "Ashford",
+  "COUNTY": "Pierce County",
+  "STATE": "WA",
+  "LAT": 46.884601,
+  "LNG": -121.736645
+  },
+  "98305": {
+  "CITY": "Beaver",
+  "COUNTY": "Clallam County",
+  "STATE": "WA",
+  "LAT": 48.062891,
+  "LNG": -124.439072
+  },
+  "98310": {
+  "CITY": "Bremerton",
+  "COUNTY": "Kitsap County",
+  "STATE": "WA",
+  "LAT": 47.591896,
+  "LNG": -122.626241
+  },
+  "98311": {
+  "CITY": "Bremerton",
+  "COUNTY": "Kitsap County",
+  "STATE": "WA",
+  "LAT": 47.631197,
+  "LNG": -122.631017
+  },
+  "98312": {
+  "CITY": "Bremerton",
+  "COUNTY": "Kitsap County",
+  "STATE": "WA",
+  "LAT": 47.573702,
+  "LNG": -122.786447
+  },
+  "98314": {
+  "CITY": "Bremerton",
+  "COUNTY": "Kitsap County",
+  "STATE": "WA",
+  "LAT": 47.556287,
+  "LNG": -122.637118
+  },
+  "98315": {
+  "CITY": "Silverdale",
+  "COUNTY": "Kitsap County",
+  "STATE": "WA",
+  "LAT": 47.72455,
+  "LNG": -122.716011
+  },
+  "98320": {
+  "CITY": "Brinnon",
+  "COUNTY": "Jefferson County",
+  "STATE": "WA",
+  "LAT": 47.718543,
+  "LNG": -122.966923
+  },
+  "98321": {
+  "CITY": "Buckley",
+  "COUNTY": "Pierce County",
+  "STATE": "WA",
+  "LAT": 47.152606,
+  "LNG": -122.071738
+  },
+  "98323": {
+  "CITY": "Carbonado",
+  "COUNTY": "Pierce County",
+  "STATE": "WA",
+  "LAT": 47.043116,
+  "LNG": -121.827633
+  },
+  "98325": {
+  "CITY": "Chimacum",
+  "COUNTY": "Jefferson",
+  "STATE": "WA",
+  "LAT": 47.966641,
+  "LNG": -122.759706
+  }
