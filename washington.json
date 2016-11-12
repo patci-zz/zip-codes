@@ -1191,31 +1191,31 @@
   "LAT": 47.72455,
   "LNG": -122.716011
   },
-  "98320": {
+"98320": {
   "CITY": "Brinnon",
   "COUNTY": "Jefferson County",
   "STATE": "WA",
   "LAT": 47.718543,
   "LNG": -122.966923
-  },
-  "98321": {
+},
+"98321": {
   "CITY": "Buckley",
   "COUNTY": "Pierce County",
   "STATE": "WA",
   "LAT": 47.152606,
   "LNG": -122.071738
-  },
-  "98323": {
+},
+"98323": {
   "CITY": "Carbonado",
   "COUNTY": "Pierce County",
   "STATE": "WA",
   "LAT": 47.043116,
   "LNG": -121.827633
-  },
-  "98325": {
+},
+"98325": {
   "CITY": "Chimacum",
   "COUNTY": "Jefferson",
   "STATE": "WA",
   "LAT": 47.966641,
   "LNG": -122.759706
-  }
+}
